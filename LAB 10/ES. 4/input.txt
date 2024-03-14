@@ -1,0 +1,3 @@
+Armando; cena; 100; 18 dicembre 2021
+Alessandro; alloggio; 80; 18 dicembre 2021
+Francesco; cena; 70; 18 dicembre 2021
